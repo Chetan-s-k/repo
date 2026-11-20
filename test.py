@@ -1,2 +1,2 @@
-print(vvce)
-print(cse 5e)
+print("vvce")
+print("cse 5e")
